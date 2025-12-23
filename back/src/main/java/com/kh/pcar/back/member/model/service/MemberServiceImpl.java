@@ -28,8 +28,6 @@ import com.kh.pcar.back.member.model.dto.MemberDTO;
 import com.kh.pcar.back.member.model.dto.MemberUpdateDTO;
 import com.kh.pcar.back.member.model.vo.MemberVO;
 import com.kh.pcar.back.token.model.dao.TokenMapper;
-import com.kh.pcar.back.token.model.service.TokenService;
-
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 
